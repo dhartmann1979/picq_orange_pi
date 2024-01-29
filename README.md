@@ -6,7 +6,7 @@
 # - PICQ von RPi zu Orange Pi Zero konvertiert
 # - SA818S Options Menü
 # - WiFi Menü an den Orange Pi Zero angepasst
-# - Zerotier für Remote Admin zwecke (standart deaktiviert)
+# - Zerotier für Remote Admin zwecke (standard deaktiviert)
 #
 # WICHTIG:
 #
